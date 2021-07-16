@@ -6,5 +6,7 @@ Olá, bem-vindo ao meu livro de receitas! :wave:
 
 - bolo de cenoura
 
+- pavê de chocolate
+
   
 
